@@ -4,7 +4,6 @@ import { motion } from 'framer-motion'
 import { skills } from '@/data'
 import { 
   SiPython, 
-  SiJava, 
   SiJavascript,
   SiTypescript,
   SiReact,
@@ -18,11 +17,11 @@ import {
   SiJupyter,
   SiFirebase
 } from 'react-icons/si'
-import { FaDatabase } from 'react-icons/fa'
+import { FaDatabase, FaJava } from 'react-icons/fa'
 
 const skillIcons: Record<string, any> = {
   Python: SiPython,
-  Java: SiJava,
+  Java: FaJava,
   JavaScript: SiJavascript,
   TypeScript: SiTypescript,
   'React.js': SiReact,

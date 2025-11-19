@@ -59,7 +59,7 @@ export default function Hero() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.2, duration: 0.8 }}
           >
-            Hi, I'm{' '}
+            Hi, I&apos;m{' '}
             <span className="gradient-text block sm:inline">{personalInfo.name}</span>
           </motion.h1>
 

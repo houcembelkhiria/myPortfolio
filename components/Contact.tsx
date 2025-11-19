@@ -69,7 +69,7 @@ export default function Contact() {
           </h2>
           <div className="w-24 h-1 bg-blue-500 mx-auto"></div>
           <p className="text-sm sm:text-base text-gray-400 mt-4 sm:mt-6 max-w-2xl mx-auto px-4">
-            I'm always open to discussing new opportunities, interesting projects, or just having a chat about technology.
+            I&apos;m always open to discussing new opportunities, interesting projects, or just having a chat about technology.
           </p>
         </motion.div>
 
@@ -87,7 +87,7 @@ export default function Contact() {
                 Contact Information
               </h3>
               <p className="text-sm sm:text-base text-gray-400 mb-6 sm:mb-8">
-                Feel free to reach out through any of these channels. I'll get back to you as soon as possible.
+                Feel free to reach out through any of these channels. I&apos;ll get back to you as soon as possible.
               </p>
             </div>
 
@@ -210,7 +210,7 @@ export default function Contact() {
                   animate={{ opacity: 1, y: 0 }}
                   className="p-3 sm:p-4 text-sm sm:text-base bg-green-500/20 border border-green-500/50 rounded-lg text-green-400"
                 >
-                  Message sent successfully! I'll get back to you soon.
+                  Message sent successfully! I&apos;ll get back to you soon.
                 </motion.div>
               )}
 
