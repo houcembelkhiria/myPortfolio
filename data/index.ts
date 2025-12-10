@@ -98,6 +98,13 @@ export const projects: Project[] = [
     technologies: ['Python', 'Transformers', 'NLP', 'TensorFlow', 'Hugging Face', 'spaCy'],
     githubUrl: 'https://github.com/houcembelkhiria',
   },
+  {
+  id: '8',
+  title: 'ChatDoc - AI Document Assistant',
+  description: 'An intelligent document analysis platform powered by Retrieval-Augmented Generation (RAG). Users can upload PDF/DOCX files, scrape web content, and chat with their documents using AI. Features include semantic search with vector embeddings, auto-summarization, quiz/flashcard generation, Mermaid diagram creation, and self-hosted LLM support via Ollama. Built with a modern full-stack architecture including Docker deployment.',
+  technologies: ['Python', 'FastAPI', 'Next.js', 'TypeScript', 'Supabase', 'Ollama', 'Docker', 'RAG' , 'Gemini'],
+  githubUrl: 'https://github.com/houcembelkhiria/ChatDoc-Backend',
+},
 
 ];
 
