@@ -105,7 +105,13 @@ export const projects: Project[] = [
   technologies: ['Python', 'FastAPI', 'Next.js', 'TypeScript', 'Supabase', 'Ollama', 'Docker', 'RAG' , 'Gemini'],
   githubUrl: 'https://github.com/houcembelkhiria/ChatDoc-Backend',
 },
-
+  {
+    id: '9',
+    title: 'DeepFake Detection System',
+    description: 'AI-powered image authenticity analyzer using Error Level Analysis (ELA) and deep learning. Upload images via a sleek React interface to detect manipulations and AI-generated content. Features include drag-and-drop upload, real-time CNN model inference, confidence scoring with visual probability displays, and a modern glassmorphism dark UI. Fully containerized with Docker Compose for seamless deployment.',
+    technologies: ['Python', 'FastAPI', 'TensorFlow', 'React', 'Vite', 'Docker', 'Nginx', 'Deep Learning'],
+    githubUrl: 'https://github.com/houcembelkhiria/DeepFake-Backend',
+  },
 ];
 
 export const skills: Skill[] = [
