@@ -69,7 +69,9 @@ export default function Contact() {
           </h2>
           <div className="w-24 h-1 bg-blue-500 mx-auto"></div>
           <p className="text-sm sm:text-base text-gray-400 mt-4 sm:mt-6 max-w-2xl mx-auto px-4">
-            I&apos;m always open to discussing new opportunities, interesting projects, or just having a chat about technology.
+            I&apos;m currently exploring senior engineering opportunities where I can drive technical 
+            strategy and build impactful AI-powered systems. Let&apos;s discuss how I can contribute 
+            to your team.
           </p>
         </motion.div>
 
@@ -87,7 +89,8 @@ export default function Contact() {
                 Contact Information
               </h3>
               <p className="text-sm sm:text-base text-gray-400 mb-6 sm:mb-8">
-                Feel free to reach out through any of these channels. I&apos;ll get back to you as soon as possible.
+                Reach out for technical collaborations, engineering leadership opportunities, or 
+                discussions on AI/ML architecture. I respond to all professional inquiries within 24 hours.
               </p>
             </div>
 

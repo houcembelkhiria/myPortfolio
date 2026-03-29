@@ -80,7 +80,18 @@ export default function About() {
                 {personalInfo.name}
               </h3>
               <p className="text-base sm:text-lg text-gray-400 leading-relaxed">
-                {personalInfo.bio}
+                With a foundation in both computer science and data engineering, I&apos;ve spent years 
+                building systems that solve real business problems. My approach combines rigorous 
+                engineering practices with deep learning expertise to deliver solutions that scale.
+                <br /><br />
+                I&apos;ve led the development of enterprise applications, from Oracle-based data systems 
+                to AI-powered document analysis platforms. I take ownership of the full development 
+                lifecycle—architecting solutions, writing production code, and ensuring seamless 
+                deployment through containerization and CI/CD.
+                <br /><br />
+                When I&apos;m not engineering solutions, I&apos;m exploring emerging AI technologies and 
+                contributing to open-source projects that push the boundaries of what&apos;s possible 
+                with modern software.
               </p>
             </div>
 

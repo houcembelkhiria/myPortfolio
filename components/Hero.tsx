@@ -108,7 +108,7 @@ export default function Hero() {
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
             >
-              Contact Me
+              Get In Touch
             </motion.button>
           </motion.div>
         </motion.div>
